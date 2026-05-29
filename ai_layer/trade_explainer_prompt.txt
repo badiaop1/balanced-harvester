@@ -1,0 +1,2 @@
+Explain this spread in simple language.
+Include: rationale, risk notes, envelope fit.
