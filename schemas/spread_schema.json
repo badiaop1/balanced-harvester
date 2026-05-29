@@ -1,0 +1,9 @@
+{
+    "type": "object",
+    "properties": {
+        "long": { "type": "number" },
+        "short": { "type": "number" },
+        "credit": { "type": "number" }
+    },
+    "required": ["long", "short", "credit"]
+}
