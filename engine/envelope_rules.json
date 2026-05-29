@@ -1,0 +1,5 @@
+{
+    "max_loss_limit": 150,
+    "min_credit": 20,
+    "max_width": 3
+}
