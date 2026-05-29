@@ -1,0 +1,10 @@
+{
+    "type": "object",
+    "properties": {
+        "max_profit": { "type": "number" },
+        "max_loss": { "type": "number" },
+        "breakeven": { "type": ["number", "null"] },
+        "envelope_ok": { "type": "boolean" }
+    },
+    "required": ["max_profit", "max_loss", "envelope_ok"]
+}
